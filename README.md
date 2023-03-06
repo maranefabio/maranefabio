@@ -1,5 +1,7 @@
 ## Hello!! i am Fábio Marane 👋
-### Data Scientist📊 - Mathematics and Physics Teacher📚 - Systems Analysis & Development undergraduate 👨‍💻
+### -📊 Data Scientist 
+### -📚 Mathematics and Physics Teacher📚
+### -👨‍💻Systems Analysis & Development undergraduate 👨‍💻
 
 
 

@@ -36,4 +36,4 @@
    
 </div>
 
-![snake animation](github.com/maranefabio)
+![Snake animation](github.com/maranefabio)

@@ -31,8 +31,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
   <img align="center" alt="pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-  <img align="center" alt="scipy" height="30" width="40" src="https://commons.wikimedia.org/wiki/File:SCIPY_2.svg">
-  <img align="center" alt="matplotlib" height="30" width="40" src="https://commons.wikimedia.org/wiki/File:Matplotlib_icon.svg">
+  <img align="center" alt="scipy" height="30" width="40" src="https://github.com/maranefabio/maranefabio/blob/main/icons/scipy.svg">
   <img align="center" alt="seaborn" height="30" width="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
   <img align="center" alt="pytorch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
 

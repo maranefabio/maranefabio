@@ -1,7 +1,8 @@
 ## Hello!! i am Fábio Marane 👋
-### -📊 Data Scientist 
-### -📚 Mathematics and Physics Teacher📚
-### -👨‍💻Systems Analysis & Development undergraduate 👨‍💻
+### - Data Scientist 📊
+### - Mathematics and Physics Teacher👨‍🏫
+### - Systems Analysis & Development undergraduate 🎓
+### - Specializing in Machine Learning 
 
 ##
 
@@ -11,11 +12,7 @@
 
 ##
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="180" width="500" align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maranefabio&theme=transparent&layout=compact" />
-</a>
-
-#### Languages and tools:
+#### Languages and tools 👨‍💻🔨
 <div style="display: inline_block"><br>
   <img align="center" alt="py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="r" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
@@ -39,9 +36,17 @@
 
 ##
 
+#### Contact and social 📧#️⃣
 <div> 
   <a href = "mailto:fabiomarane@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/maranefabio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://stackoverflow.com/users/20262897/fábio-marane" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a> 
-   
+  <a href="https://stackoverflow.com/users/20262897/fábio-marane" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+  <a href="fbiomarane"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
+</div>
+
+##
+
+#### Certifications ✔️
+<div> 
+  <a href="https://drive.google.com/drive/u/0/folders/1l8Wk8onFe6XPPS4wExgdy9wvab_IaqZF" target="_blank"><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"></a> 
 </div>

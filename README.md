@@ -1,8 +1,9 @@
-## Hello!! i am Fábio Marane 👋
+# ![Capa](https://github.com/maranefabio/maranefabio/blob/main/cover/cover_image.png)
+
 ### - Data Scientist 📊
 ### - Mathematics and Physics Teacher👨‍🏫
 ### - Systems Analysis & Development undergraduate 🎓
-### - Specializing in Machine Learning 
+### - Specializing in Machine Learning 🤖
 
 ##
 

@@ -36,10 +36,17 @@
 
 ##
 
-#### Contact, social and certifications(Google drive):
+#### Contact and social 📧#️⃣
 <div> 
   <a href = "mailto:fabiomarane@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/maranefabio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://stackoverflow.com/users/20262897/fábio-marane" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+  <a href="fbiomarane"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
+</div>
+
+##
+
+#### Certifications ✔️
+<div> 
   <a href="https://drive.google.com/drive/u/0/folders/1l8Wk8onFe6XPPS4wExgdy9wvab_IaqZF" target="_blank"><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"></a> 
 </div>

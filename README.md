@@ -1,8 +1,11 @@
-## Hello!! i am Fábio Marane 👋
+<div style="display: inline_block"><br>
+  <img align="center" alt="cover_image" height="369.6" width="656" src="https://github.com/maranefabio/maranefabio/blob/main/cover/cover_image.png">
+</div>
+
 ### - Data Scientist 📊
 ### - Mathematics and Physics Teacher👨‍🏫
 ### - Systems Analysis & Development undergraduate 🎓
-### - Specializing in Machine Learning 
+### - Specializing in Machine Learning 🤖
 
 ##
 

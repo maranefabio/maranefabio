@@ -2,6 +2,7 @@
 
 ### - Data Scientist 📊
 ### - Mathematics and Physics Teacher👨‍🏫
+### - Data and BI intern at Habitat for Humanity Brazil 🧰
 ### - Systems Analysis & Development undergraduate 🎓
 ### - Specializing in Machine Learning 🤖
 

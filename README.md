@@ -2,7 +2,6 @@
 
 ### - Data Scientist 📊
 ### - Mathematics and Physics Teacher👨‍🏫
-### - Data intern 💼
 ### - Systems Analysis & Development undergraduate 🎓
 ### - Specializing in Machine Learning 🤖
 
